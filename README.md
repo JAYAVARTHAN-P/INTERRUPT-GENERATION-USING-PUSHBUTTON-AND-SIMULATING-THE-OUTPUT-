@@ -88,8 +88,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-DEVELOPED BY: RAJESH A
-REG N0:212222100042
+DEVELOPED BY: JAYAVARTHAN P
+REG N0:212222100015
 ```
 ```py
 #include "main.h"
